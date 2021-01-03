@@ -12,13 +12,13 @@ With one `Hello World`, I was immediately hooked. I became so enthralled with CS
 
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-But I didn't stop just there. During the remaining 9 weeks of winter term, I created an [API project](https://github.com/azhang4216/redditapi){:target="_blank"} and a [personal website](http://angelazz.me/){:target="_blank"} through picking up what information I could from online forums and documentations. I faced a lot of setbacks and frustration with these projects, having to learn on my own with little CS knowledge and no guidance, but I pushed through and perservered.
+But I didn't stop just there. During the remaining 9 weeks of winter term, I created an [API project](https://github.com/azhang4216/redditapi) and a [personal website](http://angelazz.me/) through picking up what information I could from online forums and documentations. I faced a lot of setbacks and frustration with these projects, having to learn on my own with little CS knowledge and no guidance, but I pushed through and perservered.
 
-My passion for CS and quick learning got me noticed at Dartmouth's selective tech incubator, [the DALI Lab](http://dali.dartmouth.edu/){:target="_blank"}. While most (if not all) admitted students had taken higher-level CS courses, I was admitted as one of the youngest developers in lab history (18), and as someone who had, at the time, only taken the introductory CS course.
+My passion for CS and quick learning got me noticed at Dartmouth's selective tech incubator, [the DALI Lab](http://dali.dartmouth.edu/). While most (if not all) admitted students had taken higher-level CS courses, I was admitted as one of the youngest developers in lab history (18), and as someone who had, at the time, only taken the introductory CS course.
 
-Despite unfamiliar technologies and a foreign setting, I worked hard to learn many new fullstack technologies during my first term. I then applied these skills in a team setting, working with fellow DALI developers, designers, a PM, and company partners to create a [fullstack web app](https://pine-beetle-prediction-dev.netlify.app/){:target="_blank"} for the US Forest Service. Through our efforts, we were able to improve prediction generation time from several minutes to seconds, and improve user experience through interactive data visualization. The app is now deployed and up for public use.
+Despite unfamiliar technologies and a foreign setting, I worked hard to learn many new fullstack technologies during my first term. I then applied these skills in a team setting, working with fellow DALI developers, designers, a PM, and company partners to create a [fullstack web app](https://pine-beetle-prediction-dev.netlify.app/) for the US Forest Service. Through our efforts, we were able to improve prediction generation time from several minutes to seconds, and improve user experience through interactive data visualization. The app is now deployed and up for public use.
 
-Besides CS at Dartmouth, **I am always looking for more ways to challenge myself in CS.** I challenge myself with other opportunities such as hackathons (e.g. HackDavis, FemmeHacks), TAing & tutoring, and [personal projects](https://github.com/azhang4216){:target="_blank"}. 
+Besides CS at Dartmouth, **I am always looking for more ways to challenge myself in CS.** I challenge myself with other opportunities such as hackathons (e.g. HackDavis, FemmeHacks), TAing & tutoring, and [personal projects](https://github.com/azhang4216). 
 
 Having had a taste of what working in a team to create a app is like, **one of my goals is to have internship / co-op opportunities to further develop my skills in a workplace setting.**
 
@@ -31,7 +31,7 @@ Two members out of 4 dropped out 2 weeks in, leaving only me and one other fresh
 
 Despite the sudden change in plans, I remained calm under pressure. **I did not blame others or get frustrated at the predicament. Instead, I did the best I could to complete the project to a high standard.** I met with my partner to devise a clear-cut plan given the situation, our limitations, and the scope of the project. 
 
-As a result of good communication and team work, we created [a great research project](https://github.com/azhang4216/divisions-of-wealth){:target="_blank"}, earning one of the highest marks in the class as a result of our quality research and data analysis despite having only 2 members instead of 4 or 5.
+As a result of good communication and team work, we created [a great research project](https://github.com/azhang4216/divisions-of-wealth), earning one of the highest marks in the class as a result of our quality research and data analysis despite having only 2 members instead of 4 or 5.
 
 I believe that my level-headedness and accoutability make me an ideal candidate for an internship / co-op, where things are often unpredictable and require fast, calculated decison making.
 
