@@ -12,7 +12,7 @@ With one `Hello World`, I was immediately hooked. I became so enthralled with CS
 
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-But I didn't stop just there. During the remaining 9 weeks of winter term, I created an [API project](https://github.com/azhang4216/redditapi) and a [personal website](http://angelazz.me/) through picking up what information I could from online forums and documentations. I faced a lot of setbacks and frustration with these projects, having to learn on my own with little CS knowledge and no guidance, but I pushed through and perservered.
+But I didn't stop just there. During the remaining 9 weeks of winter term, I created an [API project](https://github.com/azhang4216/redditapi) and a [personal website](http://angelazz.me/) through picking up what information I could from online forums and documentations. I faced a lot of setbacks and frustration with these projects, having to learn on my own with little CS knowledge and no guidance, but I pushed through and persevered.
 
 My passion for CS and quick learning got me noticed at Dartmouth's selective tech incubator, [the DALI Lab](http://dali.dartmouth.edu/). While most (if not all) admitted students had taken higher-level CS courses, I was admitted as one of the youngest developers in lab history (18), and as someone who had, at the time, only taken the introductory CS course.
 
@@ -33,7 +33,7 @@ Despite the sudden change in plans, I remained calm under pressure. **I did not 
 
 As a result of good communication and team work, we created [a great research project](https://github.com/azhang4216/divisions-of-wealth), earning one of the highest marks in the class as a result of our quality research and data analysis despite having only 2 members instead of 4 or 5.
 
-I believe that my level-headedness and accoutability make me an ideal candidate for an internship / co-op, where things are often unpredictable and require fast, calculated decison making.
+I believe that my level-headedness and accountability make me an ideal candidate for an internship / co-op, where things are often unpredictable and require fast, calculated decision making.
 
 ## I am a team player and communicate effectively with others. This comes from being a student-athlete.
 As a recruited Division I student-athlete, being a team-player and hard worker is a prerequisite.
