@@ -12,15 +12,15 @@ With one `Hello World`, I was immediately hooked. I became so enthralled with CS
 
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-But I didn't stop just there. During the remaining 9 weeks of winter term, I created an [API project](https://github.com/azhang4216/redditapi) and a [personal website](http://angelazz.me/) through picking up what information I could from online forums and documentations. I faced a lot of setbacks and frustration with these projects, having to learn on my own with little CS knowledge and no guidance, but I pushed through and persevered.
+But I didn't stop just there. During the remaining 9 weeks of winter term, I created an <a href="https://github.com/azhang4216/redditapi" target="_blank">API project</a> and a [personal website](http://angelazz.me/) through picking up what information I could from online forums and documentations. I faced a lot of setbacks and frustration with these projects, having to learn on my own with little CS knowledge and no guidance, but I pushed through and persevered.
 
 My passion for CS and quick learning got me noticed at Dartmouth's selective tech incubator, [the DALI Lab](http://dali.dartmouth.edu/). While most (if not all) admitted students had taken higher-level CS courses, I was admitted as one of the youngest developers in lab history (18), and as someone who had, at the time, only taken the introductory CS course.
 
-Despite unfamiliar technologies and a foreign setting, I worked hard to learn many new fullstack technologies during my first term. I then applied these skills in a team setting, working with fellow DALI developers, designers, a PM, and company partners to create a [fullstack web app](https://pine-beetle-prediction-dev.netlify.app/) for the US Forest Service. Through our efforts, we were able to improve prediction generation time from several minutes to seconds, and improve user experience through interactive data visualization. The app is now deployed and up for public use.
+Despite unfamiliar technologies and a foreign setting, I worked hard to learn many new fullstack technologies during my first term. I then applied these skills in a team setting, working with fellow DALI developers, designers, a PM, and company partners to create a [fullstack web app](https://www.spbpredict.com/) for the US Forest Service. Through our efforts, we were able to improve prediction generation time from several minutes to seconds, and improve user experience through interactive data visualization. The app is now deployed and up for public use.
 
 Besides CS at Dartmouth, **I am always looking for more ways to challenge myself in CS.** I challenge myself with other opportunities such as hackathons (e.g. HackDavis, FemmeHacks), TAing & tutoring, and [personal projects](https://github.com/azhang4216). 
 
-Having had a taste of what working in a team to create a app is like, **one of my goals is to have internship / co-op opportunities to further develop my skills in a workplace setting.**
+Having had a taste of what working in a team to create an app is like, **one of my goals is to have internship / co-op opportunities to further develop my skills in a workplace setting.**
 
 ## I work well under pressure. I am accountable, responsible, and reliable.
 ![](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
